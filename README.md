@@ -1,5 +1,3 @@
-# Crypto Daily Brief
-
 ## Join [Crypto Daily Brief Channel](https://t.me/cryptodailybrief)
 
 # **Stay Ahead of the Crypto Market! 🚀**
@@ -38,8 +36,9 @@ Join our growing community of crypto enthusiasts and validators today!
 Our Telegram bot provides essential validator monitoring tools:
 
 ```
-/validator_status - Get list of all active validators with status, uptime and comission
-/validator_status <validator_name> - Get status, uptime and comission of particular validator
+/validator_status - Get list of all active validators with status, uptime and commission
+/validator_status <validator_name> - Get status, uptime and commission of particular validator
+/info - Learn more about Story Protocol (STORY)
 ```
 
 ---
