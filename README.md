@@ -20,7 +20,7 @@ Customize your daily briefing and never miss important crypto updates!
 
 ---
 
-### **Start monitoring validator activity with** [Crypto Daily Brief Bot](https://t.me/CryptoDailyBriefBot)
+### **Start monitoring validator activity with** [StoryProtocol_ValidatorCheck Bot](https://t.me/StoryProtocol_ValidatorCheck_bot)
 
 ## 🌟 Why Choose Crypto Daily Brief?
 
